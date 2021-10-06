@@ -32,3 +32,36 @@ Welcome Ethernauts! This repo contains a list of challenges you may want to try 
 
 *Hints*
 * Use hardhat - it has everything you need for this task.
+
+## Challenge 3 - Yield Farm
+
+*Difficulty*
+* Solidity: Medium
+* dApp: Medium
+
+*Objectives*
+* Build a Yield Farm that allows anyone to deposit its tokens and gain yields
+* The Yield Farm needs to implement contain at least one token that is not the governance token
+* Needs to contains at least 2 pools and 2 Farms
+* Full unit test coverage
+
+*Hints*
+* Use hardhat for Solidity tests
+* You can use Pancake or Uniswap dApp models for the frontend
+
+## Challenge 4 - NFT staking
+
+*Difficulty*
+* Solidity: Easy
+* dApp: n/a
+
+*Objectives*
+* Build an NFT Staking contract that will reward the users with a custom ERC20 token based on their staking period that they choose
+* Example: I can stake my NFT for 1 month and I get a reward of X%, I stake it for 6 months and i get a reward of 2X% and so on.
+* The NFTs that are used for the staking must be also present into a custom OpenSea collection
+* Full unit test coverage
+
+*Hints*
+
+* Use hardhat for unit testing
+* Use Rinkeby for OpenSea testnet
