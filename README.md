@@ -1,5 +1,6 @@
 # Ethernaut challenges
 ![amir-zand-thumb1](https://user-images.githubusercontent.com/550409/136199654-67467daa-fd9a-4f6a-9c07-969626d5ae53.jpg)
+Image by [Amir Zand](https://www.artstation.com/amirzand)
 
 Welcome Ethernauts! This repo contains a list of challenges you may want to try to conquer while learning Solidity and Web3 development. Please feel free to PR new challenges, and share your solutions in our discord.
 
